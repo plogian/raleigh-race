@@ -26,7 +26,7 @@ names(StateFIPS) <- "NC"
 CountyFIPS <- 183
 names(CountyFIPS) <- "Wake"
 
-apikey <- "336e3fb621e924285143c2d9e1abec0f019046f8"
+apikey <- "YOUR API KEY HERE"
 totalPop <- "B02001_001E"
 whitePop <- "B02001_002E"
 blackPop <- "B02001_003E"
